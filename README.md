@@ -27,7 +27,7 @@ Dataset: Historical pizza sales transaction data (2015)
    The most contributing product and category is Classic Deluxe pizza and Classic category respectively.
 3. **Which products underperform and should be considered for removal or promotion?**
 
-   he Brie Carre Pizza consistently underperforms and should be considered for removal, while the Classic Deluxe Pizza should receive increased promotional focus.
+   The Brie Carre Pizza consistently underperforms and should be considered for removal, while the Classic Deluxe Pizza should receive increased promotional focus.
 
    
 
