@@ -33,7 +33,7 @@ Dataset: Historical pizza sales transaction data (2015)
 
    
 
-   ###### **Key Insights and Business Recommendation**
+ ###### **Key Insights and Business Recommendation**
 
    
 
@@ -51,7 +51,7 @@ Dataset: Historical pizza sales transaction data (2015)
 
    
 
-   ###### **Key Learnings**
+###### **Key Learnings**
 
    
 
