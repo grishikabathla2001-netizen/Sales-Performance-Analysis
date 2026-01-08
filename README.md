@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ###### **Tools \& Skills:**
 
 **SQL | Microsoft Excel | Data Analysis | Business Intelligence | Dashboarding | Business Insights**
@@ -59,3 +60,8 @@ Dataset: Historical pizza sales transaction data (2015)
 * Strengthened SQL skills in data extraction and transformation.
 * Developed ability to convert raw data into business insights.
 * Improved dashboard design and storytelling with Excel.
+=======
+![Dashboard](Sales%20Analysis_Dashboard.png)
+# Sales-Performance-Analysis
+SQL & Excel project for sales performance and revenue optimization
+>>>>>>> 8357fa770643df1ec73e1ded935ccd39cb203c29
