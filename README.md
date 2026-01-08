@@ -39,8 +39,6 @@ Dataset: Historical pizza sales transaction data (2015)
 
       |   | Key Insights                                           | Business Recommendations                                                 |
 
-      |   | ------------------------------------------------------ | ------------------------------------------------------------------------ |
-
       | 1 | Sales volume peaks between 6–8 PM                      | Enables targeted evening promotions and optimized staffing               |
 
       | 2 | Classic category contributes the highest revenue share | Prioritize this category for inventory planning and marketing investment |
@@ -60,5 +58,3 @@ Dataset: Historical pizza sales transaction data (2015)
 * Strengthened SQL skills in data extraction and transformation.
 * Developed ability to convert raw data into business insights.
 * Improved dashboard design and storytelling with Excel.
-=======
-
